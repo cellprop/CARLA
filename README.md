@@ -260,7 +260,7 @@ You are simulating a Personal Rapid Transit (PRT) system in CARLA with the follo
 
 - **Simplicity**:
   - The use of straightforward mechanisms (e.g., segment reservations, uniform speeds) keeps the system simple yet effective.
-  - Avoiding unnecessary complexities ensures easier implementation and maintenance
+  - Avoiding unnecessary complexities ensures easier implementation and maintenance.
 
 ---
 
